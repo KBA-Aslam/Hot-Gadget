@@ -1,0 +1,17 @@
+.bg-img{
+    background-image: url(/images/bg/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 6%;
+}
+.carousel-indicators li{
+    width: 15px;
+    height: 8px;
+    background-color: blueviolet;
+}
+.carousel-indicators .active{
+    background-image: linear-gradient(45deg, #fdc21f, #fcc87a);
+    height: 8px;
+    width: 30px;
+    opacity: 1;
+}
